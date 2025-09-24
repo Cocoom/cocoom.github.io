@@ -4,7 +4,7 @@ As a Teams administrator, you can fully manage Teams applications that can enhan
 
 The “Microsoft Teams admin center” can be reached to this URL: [Admin Center](https://admin.teams.microsoft.com)
 
-![](https://paper-attachments.dropbox.com/s_F4554E37D88F30AB7BEBF1845EA4EDBA717C9233F7EAE67807843257ADA51AC6_1610956371977_Teams+-+Microsoft+Teams+admin+center.png)
+![](/img/en/advanced/teams-setup-admin/teams-admin-dashboard.png)
 
 To manage Apps, there is a dedicated menu in the Admin center: [Teams apps](https://admin.teams.microsoft.com/policies/manage-apps)
 
@@ -12,7 +12,7 @@ To manage Apps, there is a dedicated menu in the Admin center: [Teams apps](http
 
 There are 3 main parts in this menu section:
 
-1. [Manage apps](#manage-apps): allows you to give an overview of available Apps, which one you blocked or allowed to be installed & each app properties,
+1. [Manage apps](#manage-apps): allows you to give an overview of available Apps, which one you blocked or allowed to be installed & each app properties, but also grant admin consent when requested by an app,
 
 2. [Permission policies](#permission-policies): which app is allowed to be installed,
 
@@ -28,6 +28,16 @@ Gives you the “big picture” about the Teams applications.
 From here, you can check that Cocoom is listed as part of available applications.
 
 ![](https://paper-attachments.dropbox.com/s_F4554E37D88F30AB7BEBF1845EA4EDBA717C9233F7EAE67807843257ADA51AC6_1610956776062_Teams+-+Manage+apps+availability.png)
+
+
+### Grand admin consent
+
+Cocoom Teams App requires a grand admin consent to be fully functional.
+This is a one-time action that must be done by a Teams administrator.
+
+![](/img/en/advanced/teams-setup-admin/teams-admin-grant-admin-consent.png)
+
+→ To do so, click on Cocoom app in the list, then click on the `Grant admin consent` link.
 
 
 ## Permission policies
