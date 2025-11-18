@@ -1,9 +1,11 @@
-# Notifier dans Teams
+# Notifications de groupe dans Teams
 
-Cocoom vous permet d'être notifié dans Teams lors de la création de nouveaux mémos.
-En tant qu'administrateur Cocoom, vous pouvez choisir quel canal Teams recevra les notifications.
+Cocoom vous permet d’envoyer des notifications non seulement aux utilisateurs individuels, mais aussi à des groupes ou des canaux Teams.
+Grâce à l’application Workflows de Microsoft Teams, vous pouvez configurer des scénarios pour diffuser automatiquement des alertes Cocoom dans un canal d’équipe ou un groupe de discussion.
 
-Cette configuration se fait en 2 étapes :
+Cette intégration facilite la communication collective et garantit que vos informations clés atteignent rapidement toutes les personnes concernées, directement dans leur espace de collaboration.
+
+Ce type de notifications peut être configuré en 2 étapes principales :
 
 1. Côté Microsoft Teams : création d'un webhook dans le canal de l'équipe ou du groupe de discussion de votre choix
 2. Côté Cocoom : ajout de ce webhook à la configuration d'un fil (catégorie de contenu) de votre choix
@@ -44,7 +46,7 @@ Cliquez sur le bouton "Copier le lien" pour copier l'URL du webhook dans le pres
 
 ![Étape 5](/img/fr/guide/msteams-app/notifications/step5-link-to-copy.png)
 
-## 2. Côté Cocoom : configurer un fil Cocoom pour être notifié dans Teams
+## 2. Côté Cocoom : configurer un fil Cocoom pour notifier dans Teams
 
 Accédez à la section d'administration, puis sélectionnez l'élément de menu "Canaux".
 
