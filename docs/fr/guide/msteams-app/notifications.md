@@ -1,43 +1,75 @@
 # Notifier dans Teams
 
-Cocoom permet d’être notifié dans Teams des nouveaux mémos créés.
-En tant qu’administrateur de Cocoom vous pouvez choisir dans quel canal Teams les notifications vont arriver.
+Cocoom vous permet d'être notifié dans Teams lors de la création de nouveaux mémos.
+En tant qu'administrateur Cocoom, vous pouvez choisir quel canal Teams recevra les notifications.
 
-Cette configuration se fait en 2 temps:
+Cette configuration se fait en 2 étapes :
 
-1. Création d’un webhook dans le canal de l’équipe de votre choix côté Teams
-2. Ajout du webhook dans la configuration d’un fil de votre choix côté Cocoom
+1. Côté Microsoft Teams : création d'un webhook dans le canal de l'équipe ou du groupe de discussion de votre choix
+2. Côté Cocoom : ajout de ce webhook à la configuration d'un fil (catégorie de contenu) de votre choix
 
+## 1. Côté Microsoft Teams : création d'un webhook
 
-## 1. Création d’un webhook Microsoft Teams
+Ouvrez Microsoft Teams et accédez à l'équipe et au canal où vous souhaitez recevoir les notifications Cocoom.
 
-1.1. Se rendre dans le canal Teams, cliquer sur  son icône « … » et sélectionner « Connecteurs ».
+### 1.2. Sélection de l'extension
 
-1.2. Dans la liste des connecteurs possibles, choisir « Incoming Webhook ».
+Cliquez sur les trois points à côté du nom du canal pour ouvrir le menu contextuel, puis sélectionnez "Workflows".
 
-1.3. Indiquer un nom pour le connecteur. « Cocoom » , par exemple.
+![Étape 1](/img/fr/guide/msteams-app/notifications/step1-workflows-menu-selection.png)
 
-1.4. Pour une expérience utilisateur plus satisfaisante, il est préférable d’uploader une icône « Cocoom » pour le connecteur (voici le lien qui vous permet de le récupérer: [ICON.png](https://help.cocoom.com/img/cocoom-icon.png))
+### 1.3. Sélection du type de workflow
 
-1.5. Puis cliquer sur « Créer ».
+Filtrez le type de workflow en tapant "Webhook" dans le champ de recherche.
 
-1.6. Un lien web va alors être généré par Teams et affiché dans la fenêtre. Il faut que vous copiez ce lien.
+![Étape 2](/img/fr/guide/msteams-app/notifications/step2-workflow-type-selection.png)
 
-![](/img/en/guide/msteams-app/teams-connector-setup.png)
+### 1.4. Connexion à utiliser pour les notifications
 
+Dans la fenêtre des workflows, cliquez sur les 3 points pour sélectionner une connexion existante ou ajouter une nouvelle connexion.
 
-## 2. Configuration d’un fil pour la notification dans Teams
+Choisissez un nom pour ce workflow.
 
-Se rendre dans l’administration, section « Fils ».
+![Étape 3](/img/fr/guide/msteams-app/notifications/step3-connections.png)
 
-2.1. Cliquer sur le bouton « Modifier » du fil Cocoom à coupler à Teams concernant les notifications.
+### 1.5. Sélection de la destination de notification
 
-2.2. Faire défiler la page jusqu’à la partie « Intégration à vos outils »
+Sélectionnez l'équipe Teams et le canal où les notifications doivent être envoyées (cas d'usage pour une notification de canal ; il existe un équivalent pour les notifications de groupe de discussion).
 
-2.3. Coller le lien « Webhooks », copié précédemment, dans le champs prévu à cet effet. Il est possible d’ajouter un commentaire pour qualifier le lien (par exemple, le nom de l’équipe Teams et le nom du canal Teams)
+![Étape 4](/img/fr/guide/msteams-app/notifications/step4-notification-targeted-channel-choice.png)
 
-2.4. Cliquer sur Ajouter.
+### 1.6. Copier le lien Webhook
 
-L’association est désormais effective.
+Cliquez sur le bouton "Copier le lien" pour copier l'URL du webhook dans le presse-papiers.
 
-![](/img/en/guide/msteams-app/cocoomchannel-teamschannel-association.png)
+![Étape 5](/img/fr/guide/msteams-app/notifications/step5-link-to-copy.png)
+
+## 2. Côté Cocoom : configurer un fil Cocoom pour être notifié dans Teams
+
+Accédez à la section d'administration, puis sélectionnez l'élément de menu "Canaux".
+
+### 2.1. Modifier un fil Cocoom
+
+Cliquez sur le bouton "Modifier" pour le fil Cocoom à lier à Teams pour les notifications.
+
+### 2.2. Intégration Microsoft Teams
+
+Faites défiler la page jusqu'à la section "Intégration avec vos outils" jusqu'à atteindre la section "Microsoft Teams"
+
+![Étape 6](/img/fr/guide/msteams-app/notifications/step6-add-webhook-to-cocoom-channel.png)
+
+### 2.3. Coller le lien webhook
+
+Collez le lien "Webhooks", précédemment copié, dans le champ prévu à cet effet.
+
+Vous pouvez ajouter un commentaire pour qualifier le lien (par exemple, le nom de l'équipe Teams et le nom du canal Teams).
+
+### 2.4. Valider l'association
+
+L'association est maintenant active et prête à relayer les notifications de groupe comme lors de la publication d'un nouveau mémo.
+
+### 2.5. Vérifier l'association
+
+Exemple de notification lorsqu'un contenu est publié dans le fil précédemment choisi.
+
+![Étape 7](/img/fr/guide/msteams-app/notifications/step7-channel-notification-example.png)

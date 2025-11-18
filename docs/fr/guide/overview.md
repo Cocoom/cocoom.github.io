@@ -1,18 +1,21 @@
 # Présentation
 
-Vous trouverez ici les explications essentielles sur les fonctionnalités de Cocoom.
+Bienvenue dans la documentation Cocoom ! Vous trouverez ici toutes les informations essentielles pour maîtriser les fonctionnalités de notre plateforme.
 
-Pour simplifier votre lecture, nous avons organisé ce guide par usages que vous faite de Cocoom.
-
+Pour faciliter votre navigation, ce guide est organisé selon vos différents modes d'utilisation de Cocoom.
 
 ## Cocoom dans Microsoft Teams
 
-👩🏾‍💻 [Consulter](./msteams-app/)
+Découvrez comment utiliser Cocoom directement depuis votre environnement Microsoft Teams pour une collaboration optimale.
+
+👩🏾‍💻 [Consulter le guide](./msteams-app/)
 
 ## Cocoom dans votre navigateur
 
-👨🏻‍✈️ [Consulter](./web-app/)
+Accédez à Cocoom via votre navigateur web pour une expérience complète et accessible depuis n'importe quel appareil.
 
-Remarque: vous pouvez retrouver les mêmes fonctionnalités au sein de l'application desktop Cocoom.
+👨🏻‍✈️ [Consulter le guide](./web-app/)
 
-[Apps](https://cocoom.com/app-integrations)
+---
+
+💡 **Astuce** : Choisissez le mode d'accès qui correspond le mieux à vos besoins quotidiens. Les deux interfaces offrent des fonctionnalités complémentaires.

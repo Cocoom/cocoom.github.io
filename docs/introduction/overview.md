@@ -1,40 +1,30 @@
-# Cocoom Presentation
+# Welcome to Cocoom
 
-## Philosophy
+## Our Philosophy
 
-> 🌟 We want to help companies share their knowledge in a transversal and transparent way! We advocate for a responsible sharing of knowledge within companies to bring trust and transparency to all teams.
+> 🌟 We help organizations share knowledge transparently across teams and departments. We believe that making knowledge accessible builds trust and empowers everyone in your company.
 
+## What is Cocoom?
 
+Cocoom is a knowledge-sharing platform that helps teams, organizations, and communities create and manage their own knowledge base.
 
-## Really simple to use
+**Each knowledge base is a dedicated Cocoom workspace with:**
 
-When you want to share knowledge within a team, an organization, a community, we allow you to create a common knowledge base.
+- A custom URL (you can choose your own subdomain at creation time)
+- Content and structure you control
+- User access you manage
 
-**This base is a dedicated Cocoom platform, with :**
+**No technical expertise required.** Our intuitive interface makes it simple to create and manage your knowledge base, even if you're not tech-savvy.
 
-- a personalized URL (you choose a subdomain)
-- a structure and content that you create
-- users you manage
+## Get Started
 
-**You can manage this knowledge base without special technical skills and these online guides will allow you to be self-sufficient.**
+Ready to create your knowledge base? [Sign up for free](https://start.cocoom.com/signup?lng=en) or [explore our pricing plans](https://cocoom.com/pricing/?lang=en).
 
-The creation of a platform is free of charge and can be done online : [Sign up page](https://start.cocoom.com/signup?lng=en)
+## Get in Touch
 
-Cocoom's pricing is available here : [Pricing](https://cocoom.com/pricing/?lang=en)
+We're here to help you get started:
 
-
-## The team behind Cocoom
-
-Ergonomists, sociologists, UX designers, PhDs in computer science, technological innovation managers, communication professionals, consultant-trainer...
-Our multidisciplinary team is at your side every step of the way.
-
-We are convinced that technology alone is not enough to sustainably improve collective performance. Being immersed in the history of your company, making your employees actors in the integration of your tool, accompanying you by offering interactive and collaborative training: so many elements that will make your project a success.
-
-
-## Our contact details
-
-- Cocoom website: [https://cocoom.com](https://cocoom.com?lang=en)
-- contact email: <support@cocoom.com>
-- for sales-related questions: <sales@cocoom.com>
-- to get an appointement for a demo: [book a 20 minutes slot](https://calendly.com/cocoom/20min)
-- to contact our support: <support@cocoom.com>
+- **General inquiries**: [support@cocoom.com](mailto:support@cocoom.com)
+- **Sales questions**: [sales@cocoom.com](mailto:sales@cocoom.com)
+- **Book a demo**: [Schedule a 20-minute call](https://calendly.com/cocoom/20min)
+- **Learn more**: [cocoom.com](https://cocoom.com?lang=en)

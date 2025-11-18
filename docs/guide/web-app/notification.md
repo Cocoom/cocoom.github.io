@@ -1,20 +1,26 @@
-# Notification
+# Notifications
 
-## **Notifications**
+## Receiving notifications
 
+You will automatically receive a **notification** in the following cases:
 
-You will receive a notification:
+- When a new post is shared in a thread you are subscribed to
+- When a new collaborator joins the same Cocoom account as you
+- When a user comments on one of your posts
+- When an administrator moderates your comment
+- When an administrator edits your post
+- When an administrator moderates your post
 
-- When a new  publication is shared in a channel you subscribe to.
-- When a new share is shared in a thematic channel to which you are subscribed
-- When someone comments on one of your publication
+## Viewing your notifications
 
-You can find all the notifications by clicking on the bell-shaped icon
- at the top right of your screen:
+To **access all your notifications**, click on the bell icon located at the top right of your screen. A counter will indicate the number of unread notifications.
 
+![Notifications](/img/en/guide/web-app/notifications.png)
 
+## Managing your notifications
 
-![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.00.44.png)
+You can:
 
-
-
+- Click on a notification to mark it as read
+- Mark all notifications as read
+- Access the relevant content directly by clicking on the notification button (if available)

@@ -1,50 +1,39 @@
 # 📫 E-mail customization guide
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625414478339_image.png)
-
-
-Discover customizable parts of e-mails sent by a Cocoom platform:
+Explore the customizable components of e-mails dispatched by a Cocoom platform:
 
 - Invitation
 - Daily Digest
 - Newsletter
-
-----------
+- New comment notification (when option is enabled)
 
 ## Structure of e-mails
 
-A general structure is shared by all e-mails sent by a platform to your users
+All e-mails sent by a platform to your users share a common structure.
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625414616610_image.png)
+![](/img/infra/emails-customization/email-structure.png)
 
+This structure is illustrated in the picture above.
 
-This structure is shown on this picture.
+It consists of:
 
-It is made of:
-
-- A *background* of a given solid color,
-- A *header* made of a company logo,
-- A *body* divided in several *panels,* here **with a white background,
-- A *footer* made of the same company logo as in the header, a mention “Powered by Cocoom” that contains a link to the Cocoom website, and a final paragraph.
-
-
-----------
+- A solid color *background*,
+- A *header* displaying a company logo,
+- A *body* organized into multiple *panels* with a white background,
+- A *footer* containing the company logo, a "Powered by Cocoom" mention linking to the Cocoom website, and a closing paragraph.
 
 ## Platform wide properties
 
-Following properties can be generally customized (e.g. they apply to all e-mails sent by a given Cocoom platform) :
-
+The following properties can be customized globally (they affect all e-mails sent by a Cocoom platform):
 
 ### The company logo
 
-The default Cocoom logo can by replace by any PNG file with a transparent background.
-Size constraints are : maximum width : 198px, maximum height:
-80px.
-
+The default Cocoom logo can be replaced with any PNG file having a transparent background.
+Size limitations are: maximum width: 198px, maximum height: 80px.
 
 ### Colors
 
-Following colors can be customized:
+The following colors are customizable:
 
 - Background color. Default is #f3f3f3
 - Panel background color. Default is white
@@ -52,160 +41,134 @@ Following colors can be customized:
 - Default panel foreground color. Default is #444245
 - Tonic color. Default is #2046D9
 
-(Tonic color is used to display links and buttons)
-
+(The tonic color is applied to links and buttons)
 
 ### Fonts
 
-Fonts are customizable. Those fonts could be standard ones, (already available on computers), or web fonts from Google.
-*Note:* *Microsoft Outlook does not display web fonts. If your users are mainly using Outlook, you should stick to standard ones.*
+Fonts can be customized. They can be standard fonts (already present on computers) or Google web fonts.
+*Note: Microsoft Outlook doesn't support web fonts. If your users primarily use Outlook, standard fonts are recommended.*
 
 **Main Font**
-The main font is used for almost all texts. The default main font is the “Lato” Google web font, or Tahoma if web fonts are not available.
+Almost all text uses the main font. The default is the "Lato" Google web font, falling back to Tahoma when web fonts aren't supported.
 
 **Secondary Font**
-Currently, the secondary font is only used for button labels. The default secondary font is the “Cabin” Google web font, or Arial if web fonts are not available.
-
-
-----------
+Currently, button labels use the secondary font exclusively. The default is the "Cabin" Google web font, falling back to Arial when web fonts aren't supported.
 
 ## Invitation
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625414819876_image.png)
+![](/img/infra/emails-customization/invitation-email.png)
 
-
-The “Invitation” e-mail is sent to users when you add them on your platform. It aims to introduce the platform, and provide a button to activate their Cocoom user account.
-In addition to “platform wide properties” customizations, the e-mail content could be tailored to your specific needs.
-
-
+The "Invitation" e-mail is dispatched to users when they are added to your platform. It serves to present the platform and includes a button for activating their Cocoom account.
+Beyond "platform wide properties" customizations, the e-mail content can be adapted to your requirements.
 
 ### E-mail fields
 
-Following e-mail fields can be customized : “From”, “Subject", and “Reply-To”. See the “Appendix” section at the end of this document for more details.
-
+The following e-mail fields are customizable: "From", "Subject", and "Reply-To". Refer to the "Appendix" section for additional details.
 
 ### Body
 
-The layout and almost all the content of the body (panels, headings, text, illustration, links) of this e-mail are customizable.
-The only requirement is to display somewhere the “activate your account” button.
-Default elements can be removed and new ones inserted. See the “Appendix” section at the end of this document for more details.
-
-
-----------
+The layout and nearly all body content (panels, headings, text, illustrations, links) of this e-mail can be customized.
+The sole requirement is including the "activate your account" button somewhere.
+Default elements can be deleted and new ones added. Refer to the "Appendix" section for additional details.
 
 ## Daily digest
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625414898503_image.png)
+![](/img/infra/emails-customization/daily-digest-email.png)
 
-
-The “Daily Digest” e-mail is sent every day at 5 a.m. UTC time. Each user received a personalized version of it, with a summary of unread publications that were published, the day before, in their subscribed channels.
-In addition to “platform wide properties” customizations, the e-mail content could be tailored to your specific needs.
-
+The "Daily Digest" e-mail is dispatched daily at 5 a.m. UTC. Each user receives a personalized version summarizing unread publications from their subscribed channels, published the previous day.
+Beyond "platform wide properties" customizations, the e-mail content can be adapted to your requirements.
 
 ### E-mail fields
 
-Following e-mail fields can be customized : “From” and “Reply-To”. See the “Appendix” section at the end of this document for more details.
+The following e-mail fields are customizable: "From" and "Reply-To". Refer to the "Appendix" section for additional details.
 
 ### Body
 
-The layout and almost all the content of the body of this e-mail are customizable except the publication blocks layout.
-Default elements can be removed and new ones inserted. See the “Appendix” section at the end of this document for more details.
-
-
-----------
+The layout and nearly all body content of this e-mail can be customized, except for publication block layouts.
+Default elements can be deleted and new ones added. Refer to the "Appendix" section for additional details.
 
 ## Newsletter
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625414962209_image.png)
 
+![](/img/infra/emails-customization/newsletter-email.png)
 
-The “Newsletter” e-mail could be redacted  and sent by users with “administrator” permissions. It targets all the active or invited users on your Cocoom platform.
+The "Newsletter" e-mail can be composed and sent by users with "administrator" permissions. It targets all active or invited users on your Cocoom platform.
 
-This e-mail is made of an optionnel banner, a title, an editorial, a headline publication, and up to 9 selected publications.
+This e-mail comprises an optional banner, a title, an editorial section, a headline publication, and up to 9 selected publications.
 
-In addition to “platform wide properties” customizations, the e-mail content could be tailored to your specific needs.
-
+Beyond "platform wide properties" customizations, the e-mail content can be adapted to your requirements.
 
 ### E-mail fields
 
-Following e-mail fields can be customized : “From” and “Reply-To”. See the “Appendix” section at the end of this document for more details.
-
+The following e-mail fields are customizable: "From" and "Reply-To". Refer to the "Appendix" section for additional details.
 
 ### Body
 
-The layout and almost all the content of the body of this e-mail are customizable except the headline layout and the publication blocks layout.
-Default elements can be removed and new ones inserted. See the “Appendix” section at the end of this document for more details.
+The layout and nearly all body content of this e-mail can be customized, except for headline and publication block layouts.
+Default elements can be deleted and new ones added. Refer to the "Appendix" section for additional details.
 
+## New comment notification
 
-----------
+![New comment notification email](/img/infra/emails-customization/new-comment-notification-email.png)
 
 ## Appendix
 
-In this appendix, you will find a more detailed description of elements that can be used to format e-mails sent by Cocoom.
-
+This appendix provides detailed descriptions of elements available for formatting Cocoom e-mails.
 
 ### 1. E-mail fields
 
-To improve your users' experience, you can customize following fields:
+To enhance your users' experience, the following fields can be customized:
 
 **From**
-The “from” e-mail cannot be changed, and will be “noreply@cocoom.com". However, you can specify an associated label, to make the “from” field more user friendly.
-Ex: My Company Name <noreply@cocoom.com>
-Most e-mail clients will only show “My Company Name” to users, and “noreply@cocoom.com" should be hidden.
+The "from" e-mail remains "<noreply@cocoom.com>" and cannot be modified. However, you can specify an associated label to make the "from" field more user-friendly.
+Example: My Company Name <noreply@cocoom.com>
+Most e-mail clients display only "My Company Name" to users, hiding "<noreply@cocoom.com>".
 
 **Subject**
-The e-mail subject can contains the sentence of your choice, and could include emoji.
-Ex: 🎉 You are invited to join the « My Company» Cocoom
+The e-mail subject can contain your chosen text and may include emoji.
+Example: 🎉 You are invited to join the « My Company» Cocoom
 
 **Reply-To**
-You can specify a custom reply-to address. This address will be use by e-mail client when a user make a reply to a daily digest, a newsletter or a invitation message.
-
+You can specify a custom reply-to address. E-mail clients use this address when a user replies to a daily digest, newsletter, or invitation message.
 
 ### 2. Body elements
 
-Cocoom e-mail bodies are structured as a set of panels. Each panels contains a list of blocks. Each block is made of paragraphs.
-Following sections describe these elements and their customizable properties.
+Cocoom e-mail bodies are structured as a series of panels. Each panel contains a list of blocks. Each block comprises paragraphs.
+The following sections describe these elements and their customizable properties.
 
 **Panel**
-A panel is a 700px wide rounded rectangle. Its background color is set through Platform Wide Properties. It contains a set of blocks.
+A panel is a 700px wide rounded rectangle. Its background color is configured through Platform Wide Properties. It contains a series of blocks.
 
 **Block**
-A block is a layout element. It comes in three flavor: *one column*, *two columns* and *banner*.
-
+A block is a layout element available in three variants: *one column*, *two columns*, and *banner*.
 
 - *One column layout*
 
-The standard block organize its content in a unique column that fill the whole panel width.
-Below, the picture shows a one column block containing a unique paragraph. It can contain as many paragraphs as you like.
+The standard block organizes content in a single column spanning the full panel width.
+Below, the picture displays a one column block with a single paragraph. It can accommodate multiple paragraphs.
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415171621_image.png)
-
-
+![](/img/infra/emails-customization/one-column-layout.png)
 
 - *Two columns layout*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415195066_image.png)
+![](/img/infra/emails-customization/two-columns-layout.png)
 
-
-Cocoom e-mail body support a two-columns layout. Each column contains a set of paragraphs.
-Below, the picture shows a two columns block, each column containing a unique paragraph.
-
+Cocoom e-mail bodies support a two-column layout. Each column contains a series of paragraphs.
+Below, the picture displays a two-column block, with each column containing a single paragraph.
 
 - *Banner*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415282625_image.png)
+![](/img/infra/emails-customization/banner.png)
 
-
-A block of type “banner” displays an image that fill the whole panel width (e.g.  700px). The image height should be noticeably smaller than its width.
-
+A "banner" type block displays an image spanning the full panel width (700px). The image height should be significantly smaller than its width.
 
 **Paragraph**
-A paragraph displays a text, a link, a button, an image or a separator. You can combine all these kinds of paragraph to organize your content.
+A paragraph displays text, a link, a button, an image, or a separator. These paragraph types can be combined to organize content.
 
-Almost all paragraphs accept following properties:
+Nearly all paragraphs support the following properties:
 
-- Alignment: left, center, right and justify. Default is left.
+- Alignment: left, center, right, justify. Default is left.
 - Text transformation: capitalize, uppercase, lowercase, none. Default is none.
-- Color: any RGB code or color name. Default is is set through Platform Wide Properties.
+- Color: any RGB code or color name. Default is configured through Platform Wide Properties.
 - Top margin: a value in pixels. Default is 0px.
 - White space: normal, nowrap, pre, pre-wrap, pre-line, break-spaces. Default is normal.
 - Font style: normal, italic. Default is normal.
@@ -215,80 +178,64 @@ Almost all paragraphs accept following properties:
 
 - *Standard paragraph*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415336855_image.png)
+![](/img/infra/emails-customization/standard-paragraph.png)
 
-
-In a standard paragraph, font size is 14px.
-
+A standard paragraph uses 14px font size.
 
 - *Title*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415360023_image.png)
+![](/img/infra/emails-customization/title.png)
 
-
-In a title paragraph, font size is 26px.In the example above, the title is centered.
-
+A title paragraph uses 26px font size. In the example above, the title is centered.
 
 - *Subtitle*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415380064_image.png)
+![](/img/infra/emails-customization/subtitle.png)
 
-
-In a subtitle paragraph, font size is 18px. In the example above, the subtitle is centered.
-
+A subtitle paragraph uses 18px font size. In the example above, the subtitle is centered.
 
 - *Footer*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415406734_image.png)
+![](/img/infra/emails-customization/footer.png)
 
-
-In a footer paragraph, font size is 12px. In the example above, the footer is justified.
-
+A footer paragraph uses 12px font size. In the example above, the footer is justified.
 
 - *Link*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415424610_image.png)
+![](/img/infra/emails-customization/link.png)
 
-
-In a link paragraph, font size is 14px. As the one shown above, link can display a user-friendly label. It can also display the target URL. In the example above, the link is centered.
-
+A link paragraph uses 14px font size. Like the one shown above, links can display a user-friendly label or the target URL. In the example above, the link is centered.
 
 **Image paragraph**
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415447809_image.png)
+![](/img/infra/emails-customization/image.png)
 
-
-A paragraph can be used to display an image. You can specify the desired image width. In the example above, the image is centered.
-The maximum width of the image can also be specified in pixels. Default is 650px.
+A paragraph can display an image. You can specify the desired image width. In the example above, the image is centered.
+The maximum image width can also be specified in pixels. Default is 650px.
 
 **Button paragraph**
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415468032_image.png)
+![](/img/infra/emails-customization/button.png)
 
-
-A paragraph can also display as a call-to-action button. A button is associated to a URL, and the user can activate it.
-The color property does not apply to Button. Text color is always white, button color is always the tonic color (see “Platform Wide Properties” section).
+A paragraph can display as a call-to-action button. A button links to a URL that users can activate.
+The color property doesn't apply to buttons. Text color is always white, button color is always the tonic color (see "Platform Wide Properties" section).
 
 **Separator paragraphs**
-Paragraphs can also be used as separator. Two kinds of separator are available:
-
+Paragraphs can function as separators. Two separator types are available:
 
 - *Spacer*
 
-A space is an blanks space, use to lighten the composition of your content. The height of a spacer is adaptable.
-
+A spacer is a blank space used to improve content composition. Spacer height is adjustable.
 
 - *Horizontal line*
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415513832_image.png)
+![](/img/infra/emails-customization/horizontal-separator.png)
 
-
-An light horizontal line can be inserted to split content.
-
+A light horizontal line can be inserted to divide content.
 
 **Signature paragraph**
 
-![](https://paper-attachments.dropbox.com/s_CA4EAEB8EA45F05DBB228A130F7C45697BFF255BC7C2920E189075A4A1607811_1625415539508_image.png)
+![](/img/infra/emails-customization/signature.png)
 
+A final paragraph type displays a signature consisting of an avatar, associated text, and a URL. The entire signature functions as a clickable link.
 
-A last kind of paragraph allow to display a signature made of an avatar, an associated text and an URL. The whole signature is a link that the user can activate.

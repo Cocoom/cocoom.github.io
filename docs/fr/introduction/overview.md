@@ -1,40 +1,31 @@
-# Présentation de Cocoom
+# Bienvenue chez Cocoom
 
-## Philosophie
+## Notre Philosophie
 
-> 🌟 Nous voulons accompagner les entreprises à partager leurs savoirs de façon transversale et transparente ! Nous militons pour une responsabilisation du partage des savoirs au sein de l'entreprise pour apporter de la confiance et de la transparence auprès de toutes les équipes.
+> 🌟 Nous aidons les organisations à partager leurs connaissances de manière transparente entre les équipes et les départements. Nous croyons que rendre le savoir accessible renforce la confiance et responsabilise chacun dans votre entreprise.
 
+## Qu'est-ce que Cocoom ?
 
+Cocoom est une plateforme de partage de connaissances qui aide les équipes, les organisations et les communautés à créer et gérer leur propre base de connaissances.
 
-## Fonctionnement simple
+**Chaque base de connaissances est un espace de travail Cocoom dédié avec :**
 
-Lorsque vous souhaitez partager des connaissances au sein d’une équipe, d’une organisation, d’une communauté, nous vous permettons de créer une base de savoirs commune.
+- Une URL personnalisée (vous pouvez choisir votre propre sous-domaine lors de l'étape de création)
+- Un contenu et une structure que vous contrôlez
+- Un accès utilisateur que vous gérez
 
-**Cette base est une plateforme Cocoom dédiée, elle possède :**
+**Aucune expertise technique requise.** Notre interface intuitive facilite la création et la gestion de votre base de connaissances, même si vous n'êtes pas un expert en technologie.
 
-- une URL spécifique
-- une structure et des contenus que vous créez
-- des utilisateurs que vous gérez
+## Démarrer
 
-**Vous pouvez gérer cette base de connaissances sans compétences techniques particulières et ces guides en ligne vous permettent d’être autonomes.**
+Prêt à créer votre base de connaissances ? [Inscrivez-vous gratuitement](https://start.cocoom.com/signup?lng=fr) ou [explorez nos plans tarifaires](https://cocoom.com/pricing/?lang=fr).
 
-La création d’une base Cocoom est gratuite et s’effectue en ligne ici : [Formulaire de création d'une base](https://start.cocoom.com/signup?lng=fr)
+## Nous Contacter
 
-La tarification de Cocoom est disponible ici : [Prix](https://cocoom.com/prix)
+Nous sommes là pour vous aider à démarrer :
 
+- **Demandes générales** : [support@cocoom.com](mailto:support@cocoom.com)
+- **Questions commerciales** : [sales@cocoom.com](mailto:sales@cocoom.com)
+- **Réserver une démo** : [Planifiez un appel de 20 minutes](https://calendly.com/cocoom/20min)
+- **En savoir plus** : [cocoom.com](https://cocoom.com?lang=fr)
 
-## L’équipe derrière Cocoom
-
-Ergonomes, sociologues, UX designers, docteurs en informatique, chargé d’innovation technologique, professionnels de la communication, consultant-formateur…
-Notre équipe pluridisciplinaire est à vos côtés à chaque étape de votre projet.
-
-Nous sommes convaincus que la technologie seule ne suffit pas à améliorer durablement la performance collective. S’imprégner de l’histoire de votre entreprise, rendre vos collaborateurs acteurs dans l’intégration de votre outil, vous accompagner en vous proposant des formations interactives et collaboratives : autant d’éléments qui feront de votre projet un succès.
-
-
-## Nos coordonnées
-
-- site web Cocoom : [https://cocoom.com](https://cocoom.com)
-- mail de contact : <support@cocoom.com>
-- pour des questions commerciales : <sales@cocoom.com>
-- pour prendre RdV pour une démo : [réserver un créneau](https://calendly.com/cocoom/20min)
-- pour contacter notre support : <support@cocoom.com>

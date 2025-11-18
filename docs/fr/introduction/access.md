@@ -1,95 +1,58 @@
 # Accès & applications
 
-Votre base de connaissance est créée et disponible sur nos serveurs Cocoom.
-Nous en prenons grand soin, nous l’hébergeons et la sécurisons dans les meilleures conditions et la sauvegardons plusieurs fois par jour pour garantir vos données.
+Votre base de connaissance Cocoom est hébergée de manière sécurisée sur nos serveurs. Nous assurons son hébergement, sa protection et effectuons plusieurs sauvegardes quotidiennes pour garantir la sécurité de vos données.
 
-Pour y accéder, plusieurs possibilités s’offrent à vous.
+Plusieurs options s'offrent à vous pour accéder à votre plateforme.
 
-## Web App
+## Application web Cocoom
 
-Quelle que soit votre offre ou vos intégrations, vous pouvez y accéder par la web app Cocoom en vous connectant sur l’URL unique de votre base, choisie lors de la création de la plateforme.
+Quelle que soit votre offre, vous pouvez accéder à votre base de connaissance via l'application web Cocoom en vous connectant à l'URL unique que vous avez choisie lors de la création de votre espace.
 
+![Application web Cocoom](/img/fr/introduction/cocoom-web-app.png)
 
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589105891567_Plan+de+travail+48cocoom-guides-2.png)
+⚠️ Cette adresse est protégée par un système d'authentification (login/mot de passe). Elle ne peut pas être rendue publique et reste inaccessible aux utilisateurs non identifiés.
 
+## Application Cocoom pour Microsoft Teams
 
-⚠️ Cette adresse est protégée par un login / mot de passe.
-Elle ne peut pas être rendue publique, et ne pas pas s’afficher en clair pour un utilisateur non identifié.
+Cocoom propose une application dédiée à Microsoft Teams qui vous permet de gérer votre base de connaissance directement depuis votre environnement Teams, sans jamais avoir à le quitter.
 
+Cette application sera prochainement disponible dans le Microsoft Teams Store. En attendant, vous pouvez télécharger gratuitement le package d'installation depuis notre site web et suivre la procédure de configuration décrite dans ce guide.
 
-## App Microsoft Teams
+![Cocoom dans Teams - vue 1](/img/fr/introduction/cocoom-teams-1.png)
+![Cocoom dans Teams - vue 2](/img/fr/introduction/cocoom-teams-2.png)
 
-Cocoom a développé une application spécifique à Microsoft Teams.
+> Utilisation dans Microsoft Teams : offre payante à 2€/mois par utilisateur actif
+>
+> Un utilisateur est considéré comme actif dès qu'il se connecte au moins une fois par mois à la plateforme.
 
-**Cette application vous permet de gérer et relier votre base de connaissance Cocoom directement dans votre Microsoft Teams, sans avoir à en sortir (du tout).**
+## Application mobile (PWA)
 
-Cette application sera tout prochainement disponible dans le store d’applications Microsoft Teams, en attendant vous pouvez télécharger son pack d’installation gratuitement depuis notre site web et le configurer dans votre Microsoft Teams en suivant la procédure d’installation décrite dans ce guide.
+**Cocoom est entièrement responsive** : votre base de connaissance adapte automatiquement sa navigation et son contenu selon votre appareil (ordinateur, tablette ou mobile).
 
+L'application web est donc parfaitement utilisable depuis votre mobile. De plus, Cocoom propose une PWA (Progressive Web App), une application légère que vous pouvez installer sur votre téléphone.
 
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589106651347_Plan+de+travail+50cocoom-guides-2.png)
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589106651368_Plan+de+travail+49cocoom-guides-2.png)
+::: tip Avantages et limites des PWA
+➕ L'application occupe très peu d'espace de stockage et se met à jour automatiquement
 
-
-
-> Utilisation dans Microsoft Teams : offre payante à 2€/mois / utilisateur actif
-
-un utilisateur est considéré comme actif à partir du moment où il se connecte au moins une fois par mois sur la plateforme.
-
-
-
-## App Windows et Mac OS
-
-Pour bénéficier d’une meilleure experience utilisateur, Cocoom propose également deux applications desktop, à installer sur votre ordinateur.
-
-Ces applications sont simples, elle permettent d’avoir une icône Cocoom dans votre barre d’application et de bénéficier des notifications natives de votre ordinateurs (comme pourrait le faire votre client email…).
-
-Vous avez ainsi Cocoom toujours à disposition, comme vos autres applications bureautiques et vous êtes informé en temps réel des modifications sur votre base de connaissance.
-
-
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589106958431_Plan+de+travail+39demo-tour-cocoom.png)
-
-
-
-> Ces applications sont gratuites et incluses dans l’offre freemuim
-
-
-
-## PWA - mobile
-
-**Cocoom est entièrement responsive, cela signifie que votre base de connaissance adapte sa navigation et son contenu en fonction du support : ordinateur, tablette, mobile.**
-
-Si vous vous connectez via la web app depuis votre mobile, votre interface Cocoom sera adaptée à l’usage sur un téléphone.
-
-Pour aller plus loin, l’équipe Cocoom à développé une PWA (Progressive Web App). Il s’agit d’un application light que vous pouvez installer sur votre téléphone.
-
-::: tip PWA +/-
-➕ L’avantage c’est que l’application occupe très peu d’espace et n’a pas besoin de mises à jour
-
-➖ L’inconvénient c’est qu’elle ne peut pas générer de notifications comme les autres.
+➖ Les notifications push ne sont pas disponibles comme sur les applications natives
 :::
 
-Vous avez tout de même un accès direct à votre Cocoom, depuis votre écran d’accueil du téléphone et sans aucune fenêtre de navigation.
+Vous bénéficiez d'un accès direct à Cocoom depuis l'écran d'accueil de votre téléphone, sans interface de navigateur.
 
-::: tip INSTALLATION | HOW TO
-[PROCEDURE (en anglais)](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/)
+::: tip INSTALLATION
+[Procédure d'installation (en anglais)](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/)
 :::
 
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589107971507_Plan+de+travail+51cocoom-guides-2.png)
+![Application mobile PWA](/img/fr/introduction/cocoom-mobile-pwa.png)
 
+## Intégration via iframes
 
+Votre base de connaissance Cocoom peut être intégrée partiellement dans d'autres applications grâce aux iframes.
 
+**Une iframe permet d'afficher une section spécifique de Cocoom dans une autre page web, sans les éléments de navigation.**
 
-## &lt;iframes&gt;
+Ces intégrations sont possibles sur des pages web ou dans des outils compatibles comme SharePoint et autres intranets.
 
-La base de connaissances Cocoom peut être divisée en plusieurs parties et intégrée dans d’autres applications simplement grâce à son catalogue d’iframes.
+![Intégration iframe](/img/fr/introduction/cocoom-iframe-integration.png)
 
-**Une iframe vous permet d’afficher une petite partie de Cocoom dans une autre page, en masquant les éléments de navigation.**
-
-Ces intégrations peuvent se faire sur une page web, ou dans d’autres outils le permettant comme Sharepoint et autre intranet.
-
-
-![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589108697056_Capture-decran-2019-05-23-a-09.16.19.png)
-
-
-Si vous souhaitez tester cette fonctionnalité, rien de plus simple, vous pouvez accéder à notre [catalogue d'iframes](/fr/getting-started/iframe.md#liste-des-url-d-iframes-disponible) dans la section configuration.
-
+Pour tester cette fonctionnalité, consultez notre [catalogue d'iframes](/fr/getting-started/iframe.md#liste-des-url-d-iframes-disponible) dans la section configuration.

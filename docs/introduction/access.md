@@ -1,93 +1,59 @@
-# Access & applications
+# Access & Applications
 
-Your knowledge base is created and available on our Cocoom servers.
+Your Cocoom knowledge base is securely hosted on our servers. We ensure its hosting, protection, and perform multiple daily backups to guarantee the security of your data.
 
-We are taking great care to keep you safe in the best conditions and we will keep you safe several times a day to guarantee your data.
+Several options are available to access your platform.
 
-For and to accede, more possibilities are offered to you.
+## Cocoom Web Application
 
+Regardless of your plan, you can access your knowledge base via the Cocoom web application by logging into the unique URL you chose when creating your workspace.
 
-## Web App
+![Cocoom web application](/img/en/introduction/cocoom-web-app.png)
 
-Whatever your offer or integration, you can access it through the Cocoom app website by connecting to the unique URL of your base, choosing it when you create the platform.
+⚠️ This address is protected by an authentication system (login/password). It cannot be made public and remains inaccessible to unauthenticated users.
 
+## Cocoom Application for Microsoft Teams
 
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589108867693_Plan+de+travail+48cocoom-guides-2.png)
+Cocoom offers a dedicated Microsoft Teams application that allows you to manage your knowledge base directly from your Teams environment, without ever having to leave it.
 
+This application will soon be available in the Microsoft Teams Store. In the meantime, you can download the installation package for free from our website and follow the configuration procedure described in this guide.
 
-⚠️ **This address is protected by a login / password.**
-**It cannot be made public, and cannot be displayed in clear text for an unidentified user.**
+![Cocoom in Teams - view 1](/img/en/introduction/cocoom-teams-1.png)
+![Cocoom in Teams - view 2](/img/en/introduction/cocoom-teams-2.png)
 
+> Usage in Microsoft Teams: paid plan at €2/month per active user
+>
+> A user is considered active as soon as they log in at least once per month to the platform.
 
-## App Microsoft Teams
+## Mobile Application (PWA)
 
-Cocoom has developed a specific application for Microsoft teams.
+**Cocoom is fully responsive**: your knowledge base automatically adapts its navigation and content according to your device (computer, tablet, or mobile).
 
-**This application allows you to manage and link your Cocoom knowledge base directly in your Microsoft Teams, without having to leave it (at all).**
+The web application is therefore perfectly usable from your mobile device. Additionally, Cocoom offers a PWA (Progressive Web App), a lightweight application you can install on your phone.
 
-This application will soon be available in the Microsoft Teams application store, in the meantime you can download its installation pack for free from our website and configure it in your Microsoft Teams by following the installation procedure described in this guide.
+::: tip PWA Advantages and Limitations
+➕ The application takes up very little storage space and updates automatically
 
-
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589108934405_Plan+de+travail+50cocoom-guides-2.png)
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589108934422_Plan+de+travail+49cocoom-guides-2.png)
-
-
-
-> Use in Microsoft Teams: paid offer at 2€/month / active user
-
-A user is considered active as soon as he logs on to the platform at least once a month.
-
-
-## Windows and Mac OS Apps
-
-For a better user experience, Cocoom also offers two desktop applications, to be installed on your computer.
-
-These applications are simple, they allow you to have a Cocoom icon in your application bar and to benefit from native notifications from your computer (as your email client could do).
-
-This way, you always have Cocoom available, just like your other office applications, and you are informed in real time of changes on your knowledge base.
-
-
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589109008967_Plan+de+travail+39demo-tour-cocoom.jpg)
-
-> These applications are free and included in the freemuim offer.
-
-
-
-## PWA - mobile
-
-Cocoom is fully responsive, which means that your knowledge base adapts its navigation and content according to the medium: computer, tablet, mobile.
-
-If you connect via the web app from your mobile, your Cocoom interface will be adapted for use on a phone.
-
-To go further, the Cocoom team has developed a PWA (Progressive Web App). It is a light application that you can install on your phone.
-
-::: tip PWA +/-
-➕ The advantage is that the application occupies very little space and does not need updates.
-
-➖ The disadvantage is that it cannot generate notifications like the others.
+➖ Push notifications are not available like on native applications
 :::
 
-You still have direct access to your Cocoom, from your phone's home screen and without any navigation window.
+You get direct access to Cocoom from your phone's home screen, without a browser interface.
 
-::: tip INSTALLATION | HOW TO
-[PROCEDURE](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/)
+::: tip INSTALLATION
+[Installation procedure](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/)
 :::
 
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589109067439_Plan+de+travail+51cocoom-guides-2.png)
+![PWA mobile application](/img/en/introduction/cocoom-mobile-pwa.png)
 
+## Integration via iframes
 
+Your Cocoom knowledge base can be partially integrated into other applications using iframes.
 
-## &lt;iframes&gt;
+**An iframe allows you to display a specific section of Cocoom in another web page, without the navigation elements.**
 
-The Cocoom knowledge base can be divided into several parts and integrated into other applications simply thanks to its iframe catalogue.
+These integrations are possible on web pages or in compatible tools like SharePoint and other intranets.
 
-An iframe allows you to display a small part of Cocoom in another page, hiding the navigation elements.
+![iframe integration](/img/en/introduction/cocoom-iframe-integration.png)
 
-These integrations can be done on a web page, or in other tools allowing it like Sharepoint and other intranet.
-
-
-![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589109107791_Capture-decran-2019-05-23-a-09.16.19.png)
-
-
-If you wish to test this functionality, nothing could be simpler, you can access our [iframes catalog](/getting-started/iframe.md#list-of-iframes-urls-available) in the configuration section.
+To test this feature, check out our [iframe catalog](/en/getting-started/iframe.md#list-of-available-iframe-urls) in the configuration section.
 

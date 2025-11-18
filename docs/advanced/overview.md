@@ -1,34 +1,56 @@
 # Overview
 
-You'll find here information about
+This section provides comprehensive information about integrating Cocoom into your software ecosystem and understanding the trust and security measures in place.
 
-- the trust you can put into Cocoom
-- how you can plan to include Cocoom in your own softwares ecosystem.
+## What You'll Learn
 
-**👨‍💻 Requirements**
+Discover essential aspects of Cocoom, including:
 
-[Read](./requirements.md)
+- The security and reliability standards that make Cocoom trustworthy
+- Best practices for integrating Cocoom into your existing software infrastructure
+- Technical requirements and configuration options
+- Privacy compliance and data protection measures
 
-**🕵️‍♂️ Authentication**
+## Documentation Topics
 
-[Read](./authentication.md)
+**👨‍💻 Technical Requirements**
 
-**👨‍💻 Users**
+Learn about the prerequisites and system requirements needed to run Cocoom effectively.
 
-[Read](./users.md)
+[Read more](./requirements.md)
 
-**🌍 Hosting**
+**🕵️‍♂️ Authentication & Authorization**
 
-[Read](./hosting.md)
+Understand how Cocoom handles user authentication and access control mechanisms.
 
-**⚖️ Privacy / GDPR**
+[Read more](./authentication.md)
 
-[Read](./privacy.md)
+**👥 User Management**
 
-**🔐 Security**
+Explore user administration features, roles, and permissions management.
 
-[Read](./security.md)
+[Read more](./users.md)
 
-**📫 Emails customization**
+**🌍 Hosting Options**
 
-[Read](./customization-emails.md)
+Review available hosting solutions, deployment strategies, and infrastructure considerations.
+
+[Read more](./hosting.md)
+
+**⚖️ Privacy & GDPR Compliance**
+
+Discover how Cocoom ensures data privacy and complies with GDPR regulations.
+
+[Read more](./privacy.md)
+
+**🔐 Security Best Practices**
+
+Learn about the security measures, encryption standards, and protection mechanisms implemented in Cocoom.
+
+[Read more](./security.md)
+
+**📧 Email Customization**
+
+Customize email templates and notifications to match your brand and communication needs.
+
+[Read more](./customization-emails.md)

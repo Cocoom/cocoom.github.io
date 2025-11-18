@@ -1,33 +1,64 @@
 # Overview
 
-Cocoom is a Visual Knowledge knowledge base that helps all teammates share short, synthetic and attractive information within the company and beyond.
+Cocoom is available as a Microsoft Teams application. You can find it in the built-in app store within this tool.
 
-To use the Cocoom as a Teams App, you need a Cocoom license and an Office 365 license that includes Teams.
+![Cocoom in Teams Store - view 1](/img/en/guide/msteams-app/teams-app-overview.png)
 
+[View the Cocoom app in the Microsoft Teams Store](https://teams.microsoft.com/l/app/1055556b-2695-4f2d-8184-ea1633842a1b?source=app-details-dialog)
 
-## Quick Tour of the Cocoom app for Teams
+Note: to use the Cocoom application for Microsoft Teams, a license allowing you to use Microsoft Teams is required.
 
-The app allows you to link your Cocoom visual knowledge base in Microsoft Teams and to integrate it directly into one or more teams in order to:
+## What does the Cocoom app offer in Microsoft Teams?
 
-- ✍️ **Publish** memos (short and visual knowledge), with an easy-to-use editor
+The Cocoom app for Microsoft Teams transforms your collaborative workspace into a true visual knowledge base. It allows you to:
 
-⇢ [Publish](publish)
+- **Centralize your knowledge** directly in the Teams environment you use daily
+- **Collaborate effectively** by sharing visual and structured knowledge with your teams
+- **Save time** with quick access to essential information without leaving Teams
+- **Improve retention** of knowledge through short and visual content (memos)
+- **Structure information** with a system of threads (#) and tags for intuitive navigation
+- **Track activity** via a dedicated personal space with notifications
 
-- 📌 **Access** your knowledge by adding Cocoom tabs in your Teams channels
+## Discover the features of the Cocoom app for Microsoft Teams
 
-⇢ [Channel access by team](teams-tabs) | [Read your publications](consult) | [Be notified](notifications)
+The Cocoom app integrates seamlessly into your Microsoft Teams environment to transform knowledge management and sharing within your teams. Here's an overview of the main features:
 
-- 🛎 **Get** a personal space to follow your activity and be notified
+### ✍️ Create and publish memos
 
-⇢ [Get access to your personal space](personal-app)
+Write and share short visual knowledge easily with an intuitive editor, directly from Teams. Enrich your content with images, videos, documents, polls, and attractive formatting.
 
-- 🎓 **Organize** all your knowledge and info with #channels and structured tags
+⇢ [Learn more about publishing](publish)
 
-⇢ [Administrate content (Cocoom Administrators-restricted section)](administration)
+### 📌 Access your knowledge in Teams
 
+Integrate Cocoom tabs into your Teams channels for direct access to your knowledge base. View, search, and explore your memos without switching applications.
 
-## installlation
+⇢ [Add tabs to your teams](teams-tabs) | [Navigate your knowledge](consult) | [Manage your notifications](notifications)
 
-To use Cocoom within Microsoft teams, you must have installed the Cocoom application in your Microsoft Teams before.
+### 🛎 Track your personal activity
 
-👉 **Read the installation procedure**: [Install Cocoom in Microsoft Teams](/getting-started/install-msteams-app)
+Access your personal space to stay informed about the latest publications, follow your favorite memos, and receive relevant notifications about your knowledge base activity.
+
+⇢ [Discover your personal space](personal-app)
+
+### 🎓 Organize and structure information
+
+Use #threads and tags to categorize and organize your knowledge logically. Make searching and navigation easier for all team members.
+
+⇢ [Manage and administer your content](administration) *(reserved for Cocoom administrators)*
+
+## Prerequisites and installation
+
+### Before you begin
+
+To use Cocoom in Microsoft Teams, make sure you have:
+
+- An active Microsoft Teams license
+- A valid Cocoom account
+- The necessary rights to install applications in Teams (according to your organization's policy)
+
+### Install the application
+
+Installing Cocoom in your Teams environment is simple and quick. Follow our detailed guide to get started in just a few minutes.
+
+👉 **View the installation guide**: [Install Cocoom for Microsoft Teams](/getting-started/install-msteams-app)

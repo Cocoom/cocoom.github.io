@@ -1,18 +1,22 @@
 # Overview
 
-You can find here essential information to learn how to use Cocoom.
+Welcome to the Cocoom documentation! Here you will find all the essential information to master the features of our platform.
 
-We have organized this guide by usage you make of Cocoom.
-
+To facilitate your navigation, this guide is organized according to your different ways of using Cocoom.
 
 ## Cocoom in Microsoft Teams
 
-👩🏾‍💻 [Read](./msteams-app/)
+Discover how to use Cocoom directly from your Microsoft Teams environment for optimal collaboration.
 
-## Cocoom in your web browser
+👩🏾‍💻 [View the guide](./msteams-app/)
 
-👨🏻‍✈️ [Read](./web-app/)
+## Cocoom in your browser
 
-Note: you will find the exact same functionalities in the Cocoom desktop application.
+Access Cocoom via your web browser for a complete experience accessible from any device.
 
-[Apps](https://cocoom.com/app-integrations)
+👨🏻‍✈️ [View the guide](./web-app/)
+
+---
+
+💡 **Tip**: Choose the access mode that best suits your daily needs. Both interfaces offer complementary features.
+

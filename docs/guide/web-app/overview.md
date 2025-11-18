@@ -1,20 +1,24 @@
 # Overview
 
-Cocoom is a **Visual Knowledge** base that allows you to share relevant, synthetic and attractive information within a team, an organization or a community.
+Cocoom is an software that allows you to share relevant, concise and attractive information within a team, an organization, or a community.
+
+![Cocoom Standalone Webapp](/img/en/guide/web-app/web-app-overview.png)
 
 **The Cocoom Web App is the online interface that allows you to manage it.**
 
+## Web App Features
 
-## Tour of the Web App
+- ✍️ **Publish** memos (short and visual knowledge) with an easy-to-use editor
+- 📌 **Browse** your knowledge in the interface
+- 🛎 **Notify** in a personal space and by email
+- 🎓 **Organize** all your knowledge and information with structured #threads and tags
+- 👑 **Administer** all content and users
 
-- ✍️  Publish memos (short and visual knowledge information) with an easy-to-use editor,
-- 📌  Consult your knowledge information,
-- 🛎  Notify people in their personal space and by email,
-- 🎓  Organize all your knowledge and information with the help of #threads and structured tags,
-- 👑  Administrate all content and users.
+## Hub Mode (optional)
 
-If you have several Cocoom knowledge bases, you can go further by connecting the different bases within a "hub".
+If you have multiple Cocoom platforms, you can connect them within a "hub" to:
 
-The interface then allows you to switch from one to the other easily and to create and share thematic #thread.
+- Easily switch from one knowledge base to another
+- Create and share thematic threads between platforms, and thus share common knowledge
 
-To know more about it, please refer to the section [Structure your Cocoom](/getting-started/structure.md) or contact us: [support@cocoom.com](mailto:support@cocoom.com)
+To learn more, refer to the [Structuring Cocoom](/getting-started/structure.md) section or contact us: [support@cocoom.com](mailto:support@cocoom.com)
