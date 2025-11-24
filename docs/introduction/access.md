@@ -55,5 +55,5 @@ These integrations are possible on web pages or in compatible tools like SharePo
 
 ![iframe integration](/img/en/introduction/cocoom-iframe-integration.png)
 
-To test this feature, check out our [iframe catalog](/en/getting-started/iframe.md#list-of-available-iframe-urls) in the configuration section.
+To test this feature, check out our [iframe catalog](/getting-started/iframe.md#list-of-available-iframe-urls) in the configuration section.
 

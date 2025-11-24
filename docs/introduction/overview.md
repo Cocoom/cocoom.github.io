@@ -6,9 +6,9 @@
 
 ## What is Cocoom?
 
-Cocoom is a knowledge-sharing platform that helps teams, organizations, and communities create and manage their own knowledge base.
+Cocoom is an internal communication platform that allows you to centralize and share information within your teams, while energizing the knowledge already present in your organization.
 
-**Each knowledge base is a dedicated Cocoom workspace with:**
+**Each Cocoom account is a dedicated workspace with:**
 
 - A custom URL (you can choose your own subdomain at creation time)
 - Content and structure you control
